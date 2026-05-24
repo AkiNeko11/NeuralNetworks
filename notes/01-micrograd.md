@@ -1,5 +1,7 @@
 # Lecture 1 — micrograd
 
+## 课程仓库 ：[micrograd](https://github.com/karpathy/micrograd) 
+
 > 日期：2026-05-21
 
 ## 一、从数值微分到自动微分
