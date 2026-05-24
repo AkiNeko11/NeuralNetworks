@@ -5,7 +5,7 @@
 ## 学习进度
 
 - [x] **Lecture 1 — micrograd**：手写自动求导引擎
-- [ ] **Lecture 2 — makemore Part 1**：Bigram 字符级语言模型
+- [x] **Lecture 2 — makemore Part 1**：Bigram 字符级语言模型
 - [ ] **Lecture 3 — makemore Part 2**：MLP 多层感知机
 - [ ] **Lecture 4 — makemore Part 3**：激活值 & 梯度 & BatchNorm
 - [ ] **Lecture 5 — makemore Part 4**：成为反向传播忍者
@@ -17,7 +17,8 @@
 
 | 项目 | 说明 |
 |------|------|
-| [micrograd](https://github.com/karpathy/micrograd) | 微型自动求导引擎 |
 | [nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) | 课程主仓库，含所有 Jupyter Notebook |
+| [micrograd](https://github.com/karpathy/micrograd) | 微型自动求导引擎 |
+| [makemore](https://github.com/karpathy/makemore) | makemore |
 | [nanoGPT](https://github.com/karpathy/nanoGPT) | 最简 GPT 训练实现（~300 行） |
 | [minbpe](https://github.com/karpathy/minbpe) | 最简 BPE Tokenizer |
