@@ -19,6 +19,6 @@
 |------|------|
 | [nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) | 课程主仓库，含所有 Jupyter Notebook |
 | [micrograd](https://github.com/karpathy/micrograd) | 微型自动求导引擎 |
-| [makemore](https://github.com/karpathy/makemore) | makemore |
+| [makemore](https://github.com/karpathy/makemore) | Bigram 字符级语言模型 |
 | [nanoGPT](https://github.com/karpathy/nanoGPT) | 最简 GPT 训练实现（~300 行） |
 | [minbpe](https://github.com/karpathy/minbpe) | 最简 BPE Tokenizer |
