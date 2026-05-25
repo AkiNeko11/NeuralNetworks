@@ -6,7 +6,7 @@
 
 - [x] **Lecture 1 — micrograd**：手写自动求导引擎
 - [x] **Lecture 2 — makemore Part 1**：Bigram 字符级语言模型
-- [ ] **Lecture 3 — makemore Part 2**：MLP 多层感知机
+- [x] **Lecture 3 — makemore Part 2**：MLP 多层感知机
 - [ ] **Lecture 4 — makemore Part 3**：激活值 & 梯度 & BatchNorm
 - [ ] **Lecture 5 — makemore Part 4**：成为反向传播忍者
 - [ ] **Lecture 6 — makemore Part 5**：WaveNet 架构
