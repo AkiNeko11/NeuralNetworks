@@ -14,7 +14,7 @@
 
 ## 二、Bengio 2003 论文的核心思想
 
-方法来源于论文 *A Neural Probabilistic Language Model* (Bengio et al. 2003)。原论文是 word-level 的（17000 个词映射到 30 或 60 维特征向量），我们做的是 character-level，但模型方法一致。
+方法来源于论文 *A Neural Probabilistic Language Model* ([Bengio et al. 2003](https://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf))。原论文是 word-level 的（17000 个词映射到 30 或 60 维特征向量），我们做的是 character-level，但模型方法一致。
 
 核心创新是 **Embedding（嵌入）**：把每个字符映射到一个低维向量空间。一开始随机初始化，训练过程中不断调整——语义相似的字符最终会聚在向量空间的相近位置。
 
