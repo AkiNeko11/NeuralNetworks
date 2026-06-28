@@ -9,7 +9,7 @@
 - [x] **Lecture 3 — makemore Part 2**：MLP 多层感知机
 - [x] **Lecture 4 — makemore Part 3**：激活值 & 梯度 & BatchNorm
 - [x] **Lecture 5 — makemore Part 4**：成为反向传播忍者
-- [ ] **Lecture 6 — makemore Part 5**：WaveNet 架构
+- [x] **Lecture 6 — makemore Part 5**：WaveNet 架构
 - [ ] **Lecture 7 — 从零构建 GPT**：Transformer / Self-Attention
 - [ ] **Lecture 8 — GPT Tokenizer**：BPE 分词算法
 
